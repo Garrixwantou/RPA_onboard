@@ -1,0 +1,6 @@
+{
+  "name": "Orchestrateur RPA Onboarding",
+  "description": "Système d'automatisation robotisée (RPA) pour le provisionnement et la fermeture de comptes utilisateurs sur des plateformes hétérogènes (Email, Messagerie, Stockage).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
